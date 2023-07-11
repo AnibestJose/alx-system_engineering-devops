@@ -1,2 +1,2 @@
-#!/bin/base
-sed 's/^.//'
+#!/bin/bash
+tr -d "cC"
